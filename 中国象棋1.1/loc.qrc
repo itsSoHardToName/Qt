@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Dialog.jpg</file>
+        <file>image/棋盘.jpg</file>
+    </qresource>
+</RCC>
