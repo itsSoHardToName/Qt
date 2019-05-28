@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/爱心 (1).png</file>
+        <file>icon/爱心 (2).png</file>
+        <file>icon/播放 (1).png</file>
+        <file>icon/播放 (2).png</file>
+        <file>icon/关闭.png</file>
+        <file>icon/列表.png</file>
+        <file>icon/上一首 (1).png</file>
+        <file>icon/下一首 (1).png</file>
+        <file>icon/音量.png</file>
+        <file>icon/顺序循环.png</file>
+        <file>icon/随机播放.png</file>
+        <file>icon/单曲循环.png</file>
+        <file>icon/音乐.png</file>
+    </qresource>
+</RCC>
